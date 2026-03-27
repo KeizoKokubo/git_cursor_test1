@@ -6,6 +6,7 @@ using namespace std;
 int main() {
     string heroName;
     int slimeHP = 10;
+    int slimeMP = 10;
 
     cout << "=== Git Quest ===" << endl;
     cout << "勇者よ、名前を入力せよ: ";
